@@ -1,0 +1,18 @@
+ Templates en GitLab
+
+GitLab ofrece varios **templates** para facilitar la creación de proyectos con configuraciones predefinidas. Aquí te describo tres de ellos:
+
+## 1. GitLab Pages
+Permite a los usuarios crear y alojar sitios web estáticos directamente desde un repositorio de GitLab.  
+Es útil para documentación, blogs o páginas personales, y soporta generadores como **Jekyll** y **Hugo**.
+
+## 2. Ruby on Rails
+Un template diseñado para proyectos que utilizan el framework **Ruby on Rails**.  
+Incluye una estructura básica de archivos y configuración inicial para facilitar el desarrollo de aplicaciones web.
+
+## 3. Node.js
+Este template proporciona una configuración inicial para proyectos basados en **Node.js**, incluyendo dependencias y estructura de archivos optimizada para aplicaciones **backend** y **frontend**.
+
+Estos templates ayudan a los desarrolladores a iniciar proyectos con configuraciones optimizadas y listas para usar.  
+
+---
